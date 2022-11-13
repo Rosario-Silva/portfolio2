@@ -1,0 +1,114 @@
+.icono {
+	height: 100px;
+	width: 100px;
+}
+.header {
+	max-width: auto;
+	background: linear-gradient(rgb(164, 162, 162), rgb(225, 216, 216));
+}
+.centrado {
+	background-color: rgb(164, 161, 161);
+	padding: 40px;
+	max-width: auto;
+	margin: 0;
+}
+.contacto {
+	float: right;
+	padding-top: 35px;
+	font-size: 20px;
+	color: rgb(112, 108, 108);
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.body {
+	font-size: 10px;
+	background-color: rgb(167, 167, 162);
+}
+h1 {
+	color: gray;
+}
+.descripcion {
+	background-image: url(/destellos.jpg);
+	padding: 50px;
+}
+
+.progress {
+	height: 35px;
+	width: 100%;
+	border: 1px solid #8eb6d9;
+	border-radius: 5px;
+	background-color: #e6f3fa;
+	margin-bottom: 15px;
+}
+
+.progress-bar-c {
+	height: 100%;
+	width: 50%;
+	background: #91b6d7;
+	display: flex;
+	align-items: center;
+	transition: width 0.25s;
+	border-radius: 5px;
+}
+.progress-bar-d {
+	height: 100%;
+	width: 75%;
+	background: #91b6d7;
+	display: flex;
+	align-items: center;
+	transition: width 0.25s;
+	border-radius: 5px;
+}
+.progress-bar-ca {
+	height: 100%;
+	width: 25%;
+	background: #91b6d7;
+	display: flex;
+	align-items: center;
+	transition: width 0.25s;
+	border-radius: 5px;
+}
+.progress-bar-m {
+	height: 100%;
+	width: 60%;
+	background: #91b6d7;
+	display: flex;
+	align-items: center;
+	transition: width 0.25s;
+	border-radius: 5px;
+}
+.progress-bar-text {
+	margin-left: 10px;
+	font-weight: bold;
+	color: #ebf0f3;
+}
+.skills {
+	margin: 50px;
+}
+.form {
+	margin: 50px;
+}
+.send:hover {
+	background-color: #3b7ca4;
+	color: #ebf0f3;
+}
+footer {
+	background-color: #555;
+	padding: 80px;
+}
+.social-links {
+	list-style: none;
+	display: flex;
+	align-items: center;
+}
+
+.icono-g {
+	height: 50px;
+	width: 50px;
+}
+
+.icono-i {
+	height: 50px;
+	width: 50px;
+	padding-left: 50px;
+}
